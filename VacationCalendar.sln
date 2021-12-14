@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationCalendar", "VacationCalendar\VacationCalendar.csproj", "{BFDD3EC0-6B9C-4FDE-A428-4B04514BD306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{2976621F-48CD-421F-BCC6-AEF1C10FF153}"
+	ProjectSection(SolutionItems) = preProject
+		SCRIPT for Creating a database and database procedures.txt = SCRIPT for Creating a database and database procedures.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEDECD46-4AA7-4E27-A04B-675D5D96A25C}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDD3EC0-6B9C-4FDE-A428-4B04514BD306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDD3EC0-6B9C-4FDE-A428-4B04514BD306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDD3EC0-6B9C-4FDE-A428-4B04514BD306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDD3EC0-6B9C-4FDE-A428-4B04514BD306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E81837-EEEA-413A-8D20-FE02BB5DC936}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/integrosandbox
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VacationCalendar\\VacationCalendar.csproj
+		SccProjectName1 = VacationCalendar
+		SccLocalPath1 = VacationCalendar
+	EndGlobalSection
+EndGlobal
